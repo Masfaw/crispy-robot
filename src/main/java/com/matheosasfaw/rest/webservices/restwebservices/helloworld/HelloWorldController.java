@@ -1,4 +1,4 @@
-package com.matheosasfaw.rest.webservices.restwebservices;
+package com.matheosasfaw.rest.webservices.restwebservices.helloworld;
 
 import org.springframework.web.bind.annotation.*;
 
